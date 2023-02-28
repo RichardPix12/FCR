@@ -1,0 +1,6 @@
+﻿  EjemploVecotr.cpp
+c:\users\uo270160\desktop\fcr\archivos\0-1ejemplovector\ejemplovecotr.cpp(17): error C2447: '{': missing function header (old-style formal list?)
+c:\users\uo270160\desktop\fcr\archivos\0-1ejemplovector\ejemplovecotr.cpp(62): error C2065: 'nombreVector1': undeclared identifier
+c:\users\uo270160\desktop\fcr\archivos\0-1ejemplovector\ejemplovecotr.cpp(63): error C2065: 'nombreVector2': undeclared identifier
+c:\users\uo270160\desktop\fcr\archivos\0-1ejemplovector\ejemplovecotr.cpp(65): error C3861: 'SumaDistintos': identifier not found
+c:\users\uo270160\desktop\fcr\archivos\0-1ejemplovector\ejemplovecotr.cpp(67): error C2065: 'nombreVector2': undeclared identifier
